@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/w2xg2022/ax18usb
+  REPO_URL: https://github.com/justsee233/Actions-OpenWrt
   REPO_BRANCH: main
   CONFIG_FILE: 
   FEEDS_CONF: feeds.conf.default
