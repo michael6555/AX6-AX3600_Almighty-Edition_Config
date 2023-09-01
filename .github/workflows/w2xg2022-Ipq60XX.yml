@@ -29,7 +29,7 @@ env:
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
-  FILE_NAME: Ipq60XX
+  FILE_NAME: redmi-ax5-jdcloud
   TZ: Asia/Shanghai
 
 jobs:
